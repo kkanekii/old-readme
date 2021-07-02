@@ -66,7 +66,7 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) | | [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) |
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) |
 
 </div>
 
