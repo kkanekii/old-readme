@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 
-<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a> 
+<!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
  
  <br > Welcome to my GitHub! 🤗</h1>
 
@@ -15,8 +15,7 @@
 -   👯 I'm looking to collaborate on Open Sourced Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
 -   💬 Ask me about JavaScript and Python.
 -   📫 How to reach me: 
-    - [LinkedIn](https://www.linkedin.com/in/tusharnankani/)
-    - [Twitter](https://twitter.com/tusharnankanii)
+    
     - <a href="mailto:jksheth46@gmail.com">Email</a>
 
 ### About Me
@@ -37,24 +36,24 @@ Currently, aim is to become a globally competent individual with **programming s
 
 </p>
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true" alt="tusharnankani" />-->
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kkanekii_icons=true" alt="kkanekii" />-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnankani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkanekii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
 
 <!--
 ## Some Of My Projects
 <p align="center">
 <a href="https://github.com/tusharnankani/TSECHackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=TSECHackathon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=TSECHackathon" />
 </a>
 <a href="https://github.com/tusharnankani/AnalogClock">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=AnalogClock"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=AnalogClock"/>
 </a>
 <a href="https://github.com/tusharnankani/ToDoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=ToDoList"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=ToDoList"/>
 </a>
 <a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tusharnankani&repo=GamesBuiltUsingPython"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=GamesBuiltUsingPython"/>
 </a>
 </p>
 -->
@@ -67,8 +66,7 @@ Currently, aim is to become a globally competent individual with **programming s
 Connect with me<img src="Assets/Handshake.gif" height="32px">
 </h2>
 
-|  | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) | | [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) | | [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) |
 
 </div>
 
