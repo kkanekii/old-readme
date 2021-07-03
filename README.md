@@ -9,7 +9,7 @@
 </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkanekii" alt="kkanekii"/> </p>
 
--   🤗 I'm A Advanced designer and a new developer!
+-   🤗 I'm an Advanced designer and a new developer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _React.js_ 
 -   👯 I'm looking to collaborate on Open Sourced Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
