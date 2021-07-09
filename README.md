@@ -2,14 +2,53 @@
 
 <!--<h1 align="center"> <a href="https://tusharnankani.github.io/about/" ><img src="Assets/portfolio.gh.png" alt="about-ss"> </a>--> 
  
- <br > Welcome to my GitHub! 🤗</h1>
+ <!--<br > Welcome to my GitHub! 🤗</h1>-->
 
 <!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p> -->
+# Welcome
+### Thank You for Visiting my GitHub Profile!
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkanekii" alt="kkanekii"/> </p>
 
--   🤗 I'm an Advanced designer and a new developer!
+
+```js
+const user = {
+name = 'kkaneki'
+age = '14'
+hobbies = 'Design, Code'
+languages = 'English'
+
+// code 
+casing = 'snake_casing'
+text_editors = 'Sublime Text', 'VS Code', 'Atom'
+languages = 'JavaScript', 'Python'
+learning = 'React.js'
+}  
+function ask_me_about(subject1, subject2) {
+        subject1 = 'JavaScript'
+        subject2 = 'Python'
+}
+
+const looking_to_collab = 'React.js', 'Machine_learning'
+
+alert('Thank You For Visiting My Github Profile')
+```
+
+
+
+<!--## <a href="mailto:jksheth46@gmail.com">Email</a>--><h2>
+Contact<img src="Assets/Handshake.gif" height="32px">
+</h2>
+
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) 
+
+
+
+
+
+<!---   🤗 I'm an Advanced designer and a new developer!
 -   🔭 I'm currently working on my Competitive Coding Skills.
 -   🌱 I'm currently learning _React.js_ 
 -   👯 I'm looking to collaborate on Open Sourced Projects on _Web Devlopment_ and _Python_ 🐍 related Projects.
@@ -24,7 +63,7 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 
 <!-- I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me. I wish to be a leader in my community of people and have an *innate desire* to contribute to **environment** and **society**. -->
 
-Currently, aim is to become a globally competent individual with **programming skills** along with **design skills**.
+<!--Currently, aim is to become a globally competent individual with **programming skills** along with **design skills**.-->
 
 <!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
 
@@ -62,11 +101,6 @@ Currently, aim is to become a globally competent individual with **programming s
 
 <div align="center">
 
-<h2>
-Connect with me<img src="Assets/Handshake.gif" height="32px">
-</h2>
-
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) 
 
 </div>
 
