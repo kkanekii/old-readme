@@ -65,37 +65,17 @@ I am working on my **Data Structures** and **Algorithms**. My interest lies in *
 
 <!--Currently, aim is to become a globally competent individual with **programming skills** along with **design skills**.-->
 
-<!-- <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tusharnankani&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p> -->
+ <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kkanekii&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
 
 <p align="center">
 
 <img src="https://metrics.lecoq.io/kkanekii" alt="Github Metrics">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnankani" alt="Github Streak Stats"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkanekii" alt="Github Streak Stats"> -->
 
 </p>
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kkanekii_icons=true" alt="kkanekii" />-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkanekii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)-->
-
-<!--
-## Some Of My Projects
-<p align="center">
-<a href="https://github.com/tusharnankani/TSECHackathon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=TSECHackathon" />
-</a>
-<a href="https://github.com/tusharnankani/AnalogClock">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=AnalogClock"/>
-</a>
-<a href="https://github.com/tusharnankani/ToDoList">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=ToDoList"/>
-</a>
-<a href="https://github.com/tusharnankani/GamesBuiltUsingPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kkanekii&repo=GamesBuiltUsingPython"/>
-</a>
-</p>
--->
 
 <br>
 
